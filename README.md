@@ -11,3 +11,4 @@ At leve 5 is gest 1-200 no update xp.If worng will die(hp=0) elif gest good will
 You can set opening mode and tips mode to True
 # Note
 This game only CMD now(no GUI)
+--
